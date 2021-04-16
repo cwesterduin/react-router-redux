@@ -1,1 +1,1 @@
-# template for react applications with react-dom-router and redux
+# template for react applications with react-router and redux
